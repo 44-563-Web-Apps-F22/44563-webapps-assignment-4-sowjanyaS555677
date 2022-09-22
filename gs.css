@@ -1,0 +1,136 @@
+h1
+{
+color:white;
+font-family:Arial, Helvetica, sans-serif;
+font-size: xx-large;
+text-align: center;
+text-shadow: 5px 9px 12px black, 0 0 30px rgb(116, 223, 198), 0 0 5px rgb(236, 196, 35);
+}
+
+h1:hover {
+    color: crimson;
+  }
+
+h2{
+    text-shadow: 2px 3px 5px burlywood;
+    text-align: center;
+  }
+
+h4{
+    font-size:15px;
+    color:gold;
+}
+
+h3{
+    color:black;
+    font-size:20px;
+}
+span{
+    color:lightblue;
+}
+span:hover{
+    background-color:pink;
+}
+p{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-style: italic;
+    text-align: center;
+}
+p:hover {
+    background-color:yellowgreen;
+  }
+
+span{
+    color:blue;
+    
+}
+
+span:hover{
+    background-color:aquamarine;
+}
+
+.chorus{
+    font-size:20px;
+    color:orange;
+    text-align: inherit;
+    }
+.dis{
+        font-size:30px;
+        font-family:Arial, Helvetica, sans-serif;
+        color:deepskyblue;
+    }
+.character{
+        font-size:20px;
+        color:black;
+    }
+    
+table, th, td {
+        border: 1px solid;
+      }
+table.center {
+        margin-left: auto; 
+        margin-right: auto;
+      }
+table:hover{
+    background-color:rgb(205, 236, 255);
+}
+.changes{
+        background-color: rgb(211, 211, 211);
+        width: 400px;
+        border: 15px solid rgba(92, 0, 128, 0.564);
+        padding: 50px;
+        margin: 10px;
+}
+.container {
+    border: 4px solid greenyellow;
+    background-color: rgba(172, 255, 47, 0.703);
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px 0;
+    }
+
+.darker {
+    border-color: rgb(142, 137, 137);
+    background-color: rgb(226, 214, 214);
+    }
+a:hover {
+        color: red;
+      }
+      th,td {
+        width:200px;
+        padding:0px 4px 4px 4px;
+        margin: -28px 0px -10px 100px;
+        background: lightblue;
+        border-top: 2px solid #000;
+        border-right: 4px dashed brown;
+        border-bottom: 8px double yellow;
+        border-left: 16px inset purple;
+     }
+     ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color:blueviolet;
+      }      
+
+
+     
